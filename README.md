@@ -1,2 +1,3 @@
-# CorretorDeXml
- Corretor de Erro de Chave Duplicada das Xmls NFCE/NFE
+<h2>Corretor de XML Com erro de Duplicidade</h2>
+<p>Codigo com front end em FXML para corrigir duplicidade nas NFs, ao selecionar as NFs ele ira verificar a chave da xml e verificara no site da 
+receita por meio da api <strong>JAVA-NFE</strong> depois retornara um codigo informando se a nfe esta mesmo com erro de duplicidade, apos isso ira realizar a formatação da xml adicionando as informações retornado da requisição.</p>
